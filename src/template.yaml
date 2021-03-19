@@ -1,5 +1,5 @@
 ExpressComponent:
-  Component: express
+  Component: express-alibaba-component
   Provider: alibaba
   Extends:
     deploy:
