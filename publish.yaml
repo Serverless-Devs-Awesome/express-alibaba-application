@@ -1,5 +1,5 @@
 Type: Application
-Name: express
+Name: express-app
 Version: 0.0.6
 Provider:
   - 阿里云
